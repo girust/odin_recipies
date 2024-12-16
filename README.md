@@ -1,2 +1,2 @@
 # odin_recipies
-Odin practice #1
+This is the first proyect of the Odin bootcamp, I'll demonstrate my knowledge by creating a html recipies site.
